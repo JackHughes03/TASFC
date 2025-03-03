@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktas_router"]=self["webpackChunktas_router"]||[]).push([[454],{454:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
+//# sourceMappingURL=454.5e843eb1.js.map
